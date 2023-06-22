@@ -1,5 +1,5 @@
-<p align="center" width="50%">
-<img src="dreamhack_logo.png"/>
+<p align="center">
+<img width="50%" src="dreamhack_logo.png"/>
 </p>
 
 This is my wargame writeup 
