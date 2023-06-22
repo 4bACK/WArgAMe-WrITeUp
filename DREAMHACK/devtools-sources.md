@@ -1,4 +1,8 @@
 ## devtools-sources writeup
+>offcial, web
+>LEVEL 1
+>solved-date : 2022.12.30
+
 개발자도구의 Sources 탭 기능을 활용하여 푸는 문제이다.
 
 ![image](https://github.com/sodx2/WArgAMe-WrITeUp/assets/93699099/5ca20bc8-3479-4f99-bb8a-7643e91f1e18)
