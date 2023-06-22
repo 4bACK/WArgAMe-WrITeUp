@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="50%">
 <img src="dreamhack_logo.png"/>
 </p>
 
