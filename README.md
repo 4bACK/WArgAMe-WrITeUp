@@ -1,5 +1,5 @@
 <p align="center">
-![img](https://github.com/sodx2/WArgAMe-WrITeUp/assets/93699099/22d06d32-fb16-44a0-94eb-87d3fbc251b8)
+<img src="dreamhack_logo.png"/>
 </p>
 
 This is my wargame writeup 
